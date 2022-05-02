@@ -1,5 +1,6 @@
 package com.company;
-//коммент для коммита
+
+import java.util.Objects;
 
 public class Main {
 
